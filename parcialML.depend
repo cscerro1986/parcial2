@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1569705794 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/informes.c
+
+1570707268 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1557276040 /home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/utn.h
+
+1570707173 /home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/practicaArmadura.h
+
+1570581304 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570592910 source:/home/santiago/Escritorio/pasar de fantasma a mia/practicaparaparcial/parcialML/practicaArmadura.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1569705794 source:/home/alumno/Documentos/parcial1/parcialML/informes.c
+
+1570706810 source:/home/alumno/Documentos/parcial1/parcialML/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1557276040 /home/alumno/Documentos/parcial1/parcialML/utn.h
+
+1570753658 source:/home/alumno/Documentos/parcial1/parcialML/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
+1570754651 /home/alumno/Documentos/parcial1/parcialML/practicaArmadura.h
+
+1570753368 source:/home/alumno/Documentos/parcial1/parcialML/practicaArmadura.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+	"practicaArmadura.h"
+
